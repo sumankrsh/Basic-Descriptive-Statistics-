@@ -1,0 +1,2 @@
+# Basic-Descriptive-Statistics-
+Descriptive Statistics Descriptive statistics is used to summarize data and make sense out of the raw data collected. Since the data usually represents a sample, then the descriptive statistics is a quantitative description of the sample. The level of measurement of the data affects the type of descriptive statistics. Nominal and ordinal type data (often termed together as categorical type data) will differ in the analysis from interval and ratio type data (often termed together as continuous type data).
